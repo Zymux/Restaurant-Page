@@ -1,11 +1,12 @@
 # Restaurant-Page
 
+[Preview of Restaurant Page project](https://zymux.github.io/Restaurant-Page/)
 
 
 In this project:
 
     - Practiced DOM Manipualtion by dynamically rendering a restaurant homepage
-    - Used JavaScript alone to egnerate entire contents of the website
+    - Used JavaScript alone to generate entire contents of the website
     - Used 'npm init' for project directory and 'package.json'.
     - Installed the wepback to the node_modules directory with 'npm install webpack     webpack-cli --save-dev'
     - Created 'src' and 'dist' directory.
